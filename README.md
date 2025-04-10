@@ -14,7 +14,7 @@ Built with 💙 Flutter and deployed to the web.
 
 🚀 **Click and play directly in your browser:**
 
-👉 [https://raimonvibe.github.io/animalguesses-web/](https://raimonvibe.github.io/animalguesses-web/)
+👉 [https://animalguesses.raimonvibe.com/](https://animalguesses.raimonvibe.com/)
 
 ---
 
